@@ -9,4 +9,5 @@ public:
 
     return max(case1, case2);
     }
+
 };
