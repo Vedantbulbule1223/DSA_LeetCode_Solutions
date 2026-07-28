@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
