@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
