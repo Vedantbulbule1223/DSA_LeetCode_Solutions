@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -26,8 +27,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
