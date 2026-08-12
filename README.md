@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3731-find-missing-elements) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
