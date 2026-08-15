@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0877-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1140-stone-game-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1406-stone-game-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
