@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1140-stone-game-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1140-stone-game-ii) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
