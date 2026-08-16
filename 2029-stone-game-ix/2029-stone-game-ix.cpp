@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool stoneGameIX(vector<int>& stones) {
-        int cnt0 = 0, cnt1 = 0, cnt2 = 0;
-        for (int val : stones) {
-            if (int type = val % 3; type == 0) {
-                ++cnt0;
-            } else if (type == 1) {
-                ++cnt1;
-            } else {
-                ++cnt2;
-            }
+        int a = 0, b = 0, c = 0;
+
+        for (int x : stones) {
+            if (x % 3 == 0) a++;
+            else if (x % 3 == 1) b++;
+            else c++;
         }
-        if (cnt0 % 2 == 0) {
-            return cnt1 >= 1 && cnt2 >= 1;
+
+        
+        if (a % 2 == 0) {
+            return b > 0 && c > 0;
         }
-        return cnt1 - cnt2 > 2 || cnt2 - cnt1 > 2;
+
+        return abs(b - c) >= 3;
     }
 };
