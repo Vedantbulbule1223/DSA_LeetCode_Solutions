@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1563-stone-game-v](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2643-row-with-maximum-ones](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Vedantbulbule1223/DSA_LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
