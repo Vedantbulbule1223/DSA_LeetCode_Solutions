@@ -3,22 +3,21 @@ public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
 
-        vector<long long> suffixMin(n);
-
-        suffixMin[n - 1] = nums[n - 1];
-
-        for (int i = n - 2; i >= 0; i--) {
-            suffixMin[i] = min((long long)nums[i], suffixMin[i + 1]);
-        }
-
-        long long prefixMax = nums[0];
-
         for (int i = 0; i < n; i++) {
-            prefixMax = max(prefixMax, (long long)nums[i]);
 
-            long long instability = prefixMax - suffixMin[i];
+            int mx = nums[0];
 
-            if (instability <= k) {
+            for (int j = 0; j <= i; j++) {
+                mx = max(mx, nums[j]);
+            }
+
+            int mn = nums[i];
+
+            for (int j = i; j < n; j++) {
+                mn = min(mn, nums[j]);
+            }
+
+            if (mx - mn <= k) {
                 return i;
             }
         }
